@@ -1,7 +1,0 @@
-C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\bin\Debug\desafio-mutiplicador.exe.config
-C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\bin\Debug\desafio-mutiplicador.exe
-C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\bin\Debug\desafio-mutiplicador.pdb
-C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\obj\Debug\desafio-mutiplicador.csprojAssemblyReference.cache
-C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\obj\Debug\desafio-mutiplicador.csproj.CoreCompileInputs.cache
-C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\obj\Debug\desafio-mutiplicador.exe
-C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\obj\Debug\desafio-mutiplicador.pdb
