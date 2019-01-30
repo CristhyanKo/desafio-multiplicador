@@ -1,0 +1,7 @@
+C:\Users\38095\Desktop\proejto\desafio-multiplicador\desafio-multiplicador\bin\Debug\desafio-multiplicador.exe.config
+C:\Users\38095\Desktop\proejto\desafio-multiplicador\desafio-multiplicador\bin\Debug\desafio-multiplicador.exe
+C:\Users\38095\Desktop\proejto\desafio-multiplicador\desafio-multiplicador\bin\Debug\desafio-multiplicador.pdb
+C:\Users\38095\Desktop\proejto\desafio-multiplicador\desafio-multiplicador\obj\Debug\desafio-multiplicador.csprojAssemblyReference.cache
+C:\Users\38095\Desktop\proejto\desafio-multiplicador\desafio-multiplicador\obj\Debug\desafio-multiplicador.csproj.CoreCompileInputs.cache
+C:\Users\38095\Desktop\proejto\desafio-multiplicador\desafio-multiplicador\obj\Debug\desafio-multiplicador.exe
+C:\Users\38095\Desktop\proejto\desafio-multiplicador\desafio-multiplicador\obj\Debug\desafio-multiplicador.pdb
