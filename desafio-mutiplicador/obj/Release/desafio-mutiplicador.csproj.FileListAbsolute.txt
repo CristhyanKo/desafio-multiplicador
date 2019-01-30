@@ -1,0 +1,6 @@
+C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\bin\Release\desafio-mutiplicador.exe.config
+C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\bin\Release\desafio-mutiplicador.exe
+C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\bin\Release\desafio-mutiplicador.pdb
+C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\obj\Release\desafio-mutiplicador.csproj.CoreCompileInputs.cache
+C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\obj\Release\desafio-mutiplicador.exe
+C:\Users\38095\source\repos\desafio-mutiplicador\desafio-mutiplicador\obj\Release\desafio-mutiplicador.pdb
